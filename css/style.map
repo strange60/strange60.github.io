@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.min.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		"* {\n    box-sizing: border-box; }\n\nnav {\n    min-height: 50px;\n    .cotainer {\n        max-width: 1140px; }\n    .menu {\n        display: flex;\n        justify-content: space-between;\n        list-style: none; } }\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,CAAC,CAAC;EACE,UAAU,EAAE,UAAU;CAAG;;;AAE7B,AAAA,GAAG,CAAC;EACA,UAAU,EAAE,IAAI;CAMS;;;AAP7B,AAEI,GAFD,CAEC,SAAS,CAAC;EACN,SAAS,EAAE,MAAM;CAAG;;;AAH5B,AAII,GAJD,CAIC,KAAK,CAAC;EACF,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;EAC9B,UAAU,EAAE,IAAI;CAAG"
+}
